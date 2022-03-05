@@ -1,6 +1,6 @@
-[![trophy](https://hacked-github-stat-trophies.vercel.app/?username=Jerhyn&theme=onedark&title=AllSuperRank,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.svg" width="400" alt="Jerhyn's Dev Card"/></a>
+
+[![trophy](https://hacked-github-stat-trophies.vercel.app/?username=Jerhyn&theme=onedark&title=AllSuperRank,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jerhyn&show_icons=true&locale=en&layout=compact" /></p>
 <!---
