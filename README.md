@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jerhyn&title=Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://hacked-github-stat-trophies.vercel.app/?username=Jerhyn&theme=onedark&title=AllSuperRank,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Jerhyn/Jerhyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
