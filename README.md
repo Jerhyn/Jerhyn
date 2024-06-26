@@ -1,6 +1,6 @@
-<h2>DevCard v1</h2> <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.svg" width="400" alt="Jerhyn's Dev Card" />
+<h2>DevCard v1</h2> <a href="https://app.daily.dev/jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.svg" width="400" alt="Jerhyn's Dev Card" />
 
-<h2>DevCard v2</h2> <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.png" width="400" alt="Jerhyn's Dev Card v2" />
+<h2>DevCard v2</h2> <a href="https://app.daily.dev/jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.png" width="400" alt="Jerhyn's Dev Card v2" />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jerhyn&show_icons=true&locale=en&layout=compact" />
