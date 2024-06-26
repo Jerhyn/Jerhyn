@@ -1,5 +1,6 @@
-DevCard v1 <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.svg" width="400" alt="Jerhyn's Dev Card"/></a>
-DevCard v2 <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.png" width="400" alt="Jerhyn's Dev Card v2"/></a>
+<h2>DevCard v1</h2> <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.svg" width="400" alt="Jerhyn's Dev Card"/></a>
+
+<h2>DevCard v2</h2> <a href="https://app.daily.dev/Jerhyn"><img src="https://github.com/Jerhyn/Jerhyn/blob/main/devcard.png" width="400" alt="Jerhyn's Dev Card v2"/></a>
 
 [![trophy](https://hacked-github-stat-trophies.vercel.app/?username=Jerhyn&theme=onedark&title=AllSuperRank,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
 
